@@ -10,8 +10,7 @@ public:
             st.push({value,value});
         }
         else{
-            int Mini = min(st.top().second, value);
-            st.push({value, Mini});
+            st.push({value, min(st.top().second, value)});
         }
     }
     
