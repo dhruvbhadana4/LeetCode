@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvbhadana4/hello/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvbhadana4/hello/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
