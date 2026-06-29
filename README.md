@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/dhruvbhadana4/hello/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dhruvbhadana4/hello/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dhruvbhadana4/hello/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
