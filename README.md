@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dhruvbhadana4/hello/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/dhruvbhadana4/hello/tree/master/0137-single-number-ii) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhruvbhadana4/hello/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/dhruvbhadana4/hello/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/dhruvbhadana4/hello/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dhruvbhadana4/hello/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhruvbhadana4/hello/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
