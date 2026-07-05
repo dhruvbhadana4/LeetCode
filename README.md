@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhruvbhadana4/hello/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dhruvbhadana4/hello/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dhruvbhadana4/hello/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dhruvbhadana4/hello/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruvbhadana4/hello/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruvbhadana4/hello/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruvbhadana4/hello/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
