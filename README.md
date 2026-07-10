@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvbhadana4/hello/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dhruvbhadana4/hello/tree/master/0039-combination-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvbhadana4/hello/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/dhruvbhadana4/hello/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvbhadana4/hello/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvbhadana4/hello/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 ## Divide and Conquer
