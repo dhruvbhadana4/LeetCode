@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/dhruvbhadana4/hello/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhruvbhadana4/hello/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/dhruvbhadana4/hello/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvbhadana4/hello/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvbhadana4/hello/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 ## Divide and Conquer
