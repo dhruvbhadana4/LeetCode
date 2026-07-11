@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dhruvbhadana4/hello/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/dhruvbhadana4/hello/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhruvbhadana4/hello/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvbhadana4/hello/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
