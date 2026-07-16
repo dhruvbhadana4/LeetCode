@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/dhruvbhadana4/hello/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhruvbhadana4/hello/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/dhruvbhadana4/hello/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/dhruvbhadana4/hello/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0540-single-element-in-a-sorted-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dhruvbhadana4/hello/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dhruvbhadana4/hello/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
