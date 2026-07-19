@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhruvbhadana4/hello/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/dhruvbhadana4/hello/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhruvbhadana4/hello/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dhruvbhadana4/hello/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/dhruvbhadana4/hello/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruvbhadana4/hello/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/dhruvbhadana4/hello/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruvbhadana4/hello/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/dhruvbhadana4/hello/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
