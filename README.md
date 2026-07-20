@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dhruvbhadana4/hello/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/dhruvbhadana4/hello/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/dhruvbhadana4/hello/tree/master/0633-sum-of-square-numbers) |
 | [1922-count-good-numbers](https://github.com/dhruvbhadana4/hello/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dhruvbhadana4/hello/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvbhadana4/hello/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruvbhadana4/hello/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/dhruvbhadana4/hello/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvbhadana4/hello/tree/master/0011-container-with-most-water) |
+| [0633-sum-of-square-numbers](https://github.com/dhruvbhadana4/hello/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
