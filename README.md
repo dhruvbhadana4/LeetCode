@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhruvbhadana4/hello/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/dhruvbhadana4/hello/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvbhadana4/hello/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/dhruvbhadana4/hello/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/dhruvbhadana4/hello/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvbhadana4/hello/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/dhruvbhadana4/hello/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
